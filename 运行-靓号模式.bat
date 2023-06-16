@@ -1,2 +1,2 @@
-niceTron.exe -w  128 --matching match.txt
+niceTron.exe -w  128 --leading A
 pause
